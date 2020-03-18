@@ -8,19 +8,14 @@ a{
     text-align: left;
     padding-left: 20px;
     padding-top:10px;
-    background-color:rgb(155, 219, 219);
 }
-/* #cal{
-    width:120px;
-    height:30px;
-    text-align: center;
-} */
 input::-webkit-input-placeholder{
     color:'#eee';
 }
 input{
     height:25px;
-    border-radius:5px ;
+    border-radius:8px ;
+	border: none;
 }
 #p1{
     width:380px;
